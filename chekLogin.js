@@ -1,8 +1,6 @@
-'use strict'
-
 let userName = prompt("What is you name?", "");
 
-if (userName == "Luka") {
+if (userName == "Luca") {
     let vipPass = prompt("Ohh Vip, Please Tell Me The password", "")
 
     if (vipPass == "MR-Luca") {
@@ -13,6 +11,7 @@ if (userName == "Luka") {
     }
     else ("Sorry mister you are not in Vip list")
 }
+
 else if (userName == "Admin") {
     let pass = prompt("tell me password", "");
 
