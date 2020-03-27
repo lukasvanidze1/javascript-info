@@ -1,3 +1,5 @@
+'use strict'
+
 let userName = prompt("What is you name?", "");
 
 if (userName == "Luca") {
