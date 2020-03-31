@@ -1,1 +1,1 @@
-# javascript-info
+# javascript-info examples.
